@@ -1,14 +1,11 @@
-# Alpha Compass Stars EA for MetaTrader 4
+# Alpha Compass Stars — Free MT4 Forex Robot EX4 for Gold XAUUSD
 
-Alpha Compass Stars is an EX4 Expert Advisor for desktop MetaTrader 4.
+**Alpha Compass Stars** is a free **MT4 Forex Robot / Expert Advisor** in `.ex4` format for **MetaTrader 4 desktop**.
 
-It analyzes gold on M5, opens and closes trades automatically, and pauses during risky news.
+The EA is designed for **Gold / XAUUSD trading on the M5 timeframe**. It analyzes the market, opens and closes trades automatically, and can pause trading during risky news periods.
 
-## Download
-
-Download the latest `.ex4` file from the Releases page:
-
-https://github.com/Scalpetronix/mt4-forex-robot/releases
+> Download the latest version from the **Releases** page:  
+> https://github.com/Scalpetronix/mt4-forex-robot/releases
 
 ## Installation
 
